@@ -1,4 +1,4 @@
-# 📖 AWS Certification Study Guide
+# AWS Certification Study Guide
 
 Comprehensive study materials for AWS certification exams.
 
